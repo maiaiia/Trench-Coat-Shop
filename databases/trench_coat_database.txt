@@ -1,0 +1,17 @@
+Adventurer Coat,S,Olive,100,21,https://shorturl.at/L9o5m
+Adventurer Coat,M,Beige,140,91,https://img.co/new-link
+Chesterfield Coat,S,Burgundy,175,29,https://shorturl.at/5nUgX
+Chesterfield Coat,M,Burgundy,180,196,https://shorturl.at/5nUgX
+Chesterfield Coat,L,Burgundy,150,195,https://shorturl.at/5nUgX
+Classic Noir Trench,S,Black,120,56,https://shorturl.at/b8uB2
+Classic Noir Trench,M,Black,120,97,https://shorturl.at/b8uB2
+Classic Noir Trench,L,Black,120,64,https://shorturl.at/b8uB2
+Detective Coat,S,Beige,180,53,https://shorturl.at/gvfT4
+Detective Coat,M,Beige,180,193,https://shorturl.at/gvfT4
+Detective Coat,L,Beige,180,36,https://shorturl.at/gvfT4
+Urban Safari Coat,S,Green,100,284,https://tinyurl.com/5zb6hvr5
+Urban Safari Coat,M,Green,175,31,https://tinyurl.com/5zb6hvr5
+Urban Safari Coat,L,Green,175,66,https://tinyurl.com/5zb6hvr5
+Wrap Coat,S,Navy,84,36,https://tinyurl.com/9whn88ue
+Wrap Coat,M,Navy,84,27,https://tinyurl.com/9whn88ue
+Wrap Coat,L,Navy,100,185,https://tinyrul.com/9whn88ue

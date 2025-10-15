@@ -1,0 +1,16 @@
+Adventurer Coat,S,Beige,130,20,https://img.co/adventurer
+Adventurer Coat,S,Olive,130,30,https://img.co/adventurer
+Adventurer Coat,M,Beige,130,40,https://img.co/adventurer
+Adventurer Coat,M,Olive,100,31,https://img.co/adventurer
+Adventurer Coat,L,Beige,130,20,https://img.co/adventurer
+Chesterfield Coat,S,Burgundy,200,15,https://img.co/chesterfield
+Chesterfield Coat,M,Burgundy,200,6,https://img.co/chesterfield
+Chesterfield Coat,L,Burgundy,200,6,https://img.co/chesterfield
+Classic Noir Trench,S,Black,120,18,https://img.co/classic-noir
+Classic Noir Trench,M,Black,120,50,https://img.co/classic-noir
+Classic Noir Trench,L,Black,120,35,https://img.co/classic-noir
+Urban Safari Coat,S,Green,175,25,https://img.co/urban-safari
+Urban Safari Coat,M,Green,175,30,https://img.co/urban-safari
+Urban Safari Coat,L,Green,175,15,https://img.co/urban-safari
+Wrap Coat,S,Navy,84,65,https://img.co/wrap-coat
+Wrap Coat,M,Navy,84,60,https://img.co/wrap-coat

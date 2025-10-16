@@ -40,4 +40,4 @@ A C++ application for managing a trench coat shop with a GUI built using the Qt 
 
 ## Demos
 ### User Mode
-![](https://github.com/maiaiia/Trench-Coat-Shop/tree/main/demos/demoUser-compressed.gif)
+![](./demos/demoUser-compressed.gif)

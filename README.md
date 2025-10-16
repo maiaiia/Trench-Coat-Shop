@@ -39,7 +39,11 @@ A C++ application for managing a trench coat shop with a GUI built using the Qt 
 - **Build System**: CMake
 
 ## Demos
-### User Mode
-![](./demos/demoUser-compressed.gif)
+### Admin Mode
+
 ![](./demos/demoAdmin-compressed.gig)
+
+### User Mode
+
+![](./demos/demoUser-compressed.gif)
 

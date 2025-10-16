@@ -1,0 +1,9 @@
+*.h linguist-language=C++
+*.cpp linguist-language=C++
+*.cc linguist-language=C++
+*.cxx linguist-language=C++
+
+*.h linguist-detectable=false
+
+src/utils/sql/sql.c linguist-vendored
+src/utils/sql/sql.h linguist-vendored

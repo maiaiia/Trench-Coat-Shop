@@ -7,3 +7,5 @@
 
 src/utils/sql/sql.c linguist-vendored
 src/utils/sql/sql.h linguist-vendored
+
+# force refresh

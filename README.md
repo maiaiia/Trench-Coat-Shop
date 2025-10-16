@@ -41,7 +41,7 @@ A C++ application for managing a trench coat shop with a GUI built using the Qt 
 ## Demos
 ### Admin Mode
 
-![](./demos/demoAdmin-compressed.gig)
+![](./demos/demoAdmin-compressed.gif)
 
 ### User Mode
 

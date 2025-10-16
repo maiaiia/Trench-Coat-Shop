@@ -37,3 +37,7 @@ A C++ application for managing a trench coat shop with a GUI built using the Qt 
 - **GUI Framework**: Qt
 - **Database**: SQLite (and a basic text file DB)
 - **Build System**: CMake
+
+## Demos
+### User Mode
+![](https://github.com/maiaiia/Trench-Coat-Shop/tree/main/demos/demoUser-compressed.gif)
